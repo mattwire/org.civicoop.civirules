@@ -141,7 +141,7 @@ function civirules_civicrm_navigationMenu( &$params ) {
     'attributes' => array(
       'label' => 'CiviRules',
       'name' => 'CiviRules',
-      'url' => null,
+      'url' => 'http://#',
       'permission' => 'administer CiviCRM',
       'operator' => null,
       'separator' => null,
